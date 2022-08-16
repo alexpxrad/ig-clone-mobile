@@ -3,6 +3,7 @@ import { StyleSheet, SafeAreaView } from 'react-native';
 import Hero from './components/Hero';
 import PhotoList from './components/PhotoList';
 
+
 export default function App() {
   return (
     
